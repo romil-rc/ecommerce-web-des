@@ -1,0 +1,100 @@
+{
+    "cards":[
+        {
+            "id": 1,
+            "show": "block",
+            "img": "https://i5.walmartimages.com/asr/07d325dc-fb42-4bf6-8f4f-2216c8f212d3_1.f37c57e8e7f730446d61017c1ed7e666.jpeg",
+            "title": "Apple iPod",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 2,
+            "show": "block",
+            "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/F07H3_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1614983567000",
+            "title": "Apple Smartwatch 2",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 3,
+            "show": "block",
+            "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ML773_VW_34FR+watch-45-stainless-graphite-cell-7s_VW_34FR_WF_CO?wid=1400&hei=1400&trim=1,0&fmt=p-jpg&qlt=95&.v=1630042305000,1631661901000",
+            "title": "Apple Smartwatch 2.0",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 4,
+            "show": "block",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo3bPslPNG85drtoc5yYF_gCuNlu7JneXqHQ&usqp=CAU",
+            "title": "Apple Homepod Mini",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 5,
+            "show": "block",
+            "img": "https://www.apple.com/v/airpods-max/c/images/overview/hero__gnfk5g59t0qe_xlarge.png",
+            "title": "Apple Airpods Max",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 6,
+            "show": "hidden",
+            "img": "https://techmasternet.com/wp-content/uploads/2021/06/ORBMART-Universal-Clip-235-Degree-Super-Fish-Eye-Camera-Fisheye-Lens-For-Apple-iPhone-Samsung-Xiaomi-1.jpg",
+            "title": "Apple Camera",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 7,
+            "show": "hidden",
+            "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MQHX2?wid=1200&hei=2163&fmt=jpeg&qlt=95&.v=1504288101848",
+            "title": "iPhone Lightning Dock - Gold",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 8,
+            "show": "hidden",
+            "img": "https://laptechindia.com/2321-large_default/magic-trackpad-2-space-grey.jpg",
+            "title": "Apple Magic Trackpad 2",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 9,
+            "show": "hidden",
+            "img": "https://5.imimg.com/data5/HW/LU/MY-13433230/android-smartphone-original-charger-for-apple-iphone-500x500.jpeg",
+            "title": "Apple Charger",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 10,
+            "show": "hidden",
+            "img": "https://i1.wp.com/maplestore.in/wp-content/uploads/2020/11/IN_r1420_PDP_Image_Position_2.jpg?fit=2048%2C2048&ssl=1",
+            "title": "New Apple Mac Mini",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 11,
+            "show": "hidden",
+            "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/FU682?wid=2000&hei=2000&fmt=jpeg&qlt=80&.v=1555706538171",
+            "title": "Apple Smartwatch Magic",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 12,
+            "show": "hidden",
+            "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1632861342000",
+            "title": "Apple Smartwatch Magic",
+            "newCost": "$499",
+            "oldCost": "$599"
+        }
+    ]
+}

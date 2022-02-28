@@ -1,0 +1,76 @@
+{
+    "cards":[
+        {
+            "id": 1,
+            "show": "block",
+            "status": "NEW",
+            "img": "https://i.gadgets360cdn.com/products/laptops/large/1546455476_635_apple_macbook-pro-a1278.jpg?downsize=*:360",
+            "title": "Apple Macbook",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 2,
+            "show": "block",
+            "status": "NEW",
+            "img": "https://cdn.osxdaily.com/wp-content/uploads/2016/06/macbook-pro-sierra-wallpaper.jpg",
+            "title": "Apple Macbook Pro",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 3,
+            "show": "block",
+            "status": "NEW",
+            "img": "https://m.media-amazon.com/images/I/71thf1SYnGL._AC_SL1500_.jpg",
+            "title": "Apple Macbook Air",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 4,
+            "show": "block",
+            "status": "NEW",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQcQebTtagNwigLKiEILP9VDDwmHxYIHufTSabIlF7bZ1nIZpzppKxosm7-93Au6o7VkE&usqp=CAU",
+            "title": "Apple iPhone 11",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 5,
+            "show": "block",
+            "status": "NEW",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYssZCr_RSRqg1OgLvqEohCTWxZZO1Kyz1TQ&usqp=CAU",
+            "title": "Apple iPhone 6S Plus",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 6,
+            "show": "hidden",
+            "status": "NEW",
+            "img": "https://www.apple.com/newsroom/images/product/ipad/standard/apple_ipados14_widgets_062220_big.jpg.large.jpg",
+            "title": "Apple iPad",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 7,
+            "show": "hidden",
+            "status": "NEW",
+            "img": "https://static.emaxme.com/media/catalog/product/1/0/100000328708_1_1.jpg",
+            "title": "Apple Watch",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 8,
+            "show": "hidden",
+            "status": "NEW",
+            "img": "https://i5.walmartimages.com/asr/07d325dc-fb42-4bf6-8f4f-2216c8f212d3_1.f37c57e8e7f730446d61017c1ed7e666.jpeg",
+            "title": "Apple iPod",
+            "newCost": "$499",
+            "oldCost": "$599"
+        }
+    ]
+}

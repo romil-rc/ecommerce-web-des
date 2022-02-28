@@ -1,0 +1,40 @@
+{
+    "columnOne": [
+        {
+            "title": "Accessories",
+            "data": [
+                {"item": "AirPort & Wireless"},
+                {"item": "AppleCare"},
+                {"item": "Bags, Shells & Sleeves"},
+                {"item": "Cables & Docks"},
+                {"item": "Cameras & Video"},
+                {"item": "Car & Travel"},
+                {"item": "Cases & Films"}
+            ]
+        }
+    ],
+    "columnTwo": [
+        {
+            "title": "Category",
+            "data": [
+                {"item": "Charging Devices"},
+                {"item": "Connected Home"},
+                {"item": "Device Care"},
+                {"item": "Display & Graphic"},
+                {"item": "Fitness & Sport"},
+                {"item": "Headphones"},
+                {"item": "HealthKit"}
+            ]
+        }
+    ],
+    "columnThree": [
+        {
+            "title": "Category",
+            "data": [
+                {"item": "Mice & Keyboards"},
+                {"item": "Music Creation"},
+                {"item": "Networking & Server"}
+            ]
+        }
+    ]
+}

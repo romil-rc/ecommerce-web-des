@@ -1,0 +1,39 @@
+{
+    "scroll": [
+        {
+            "id": 1,
+            "img":"https://www.beatsbydre.com/content/dam/beats-support/global/images/hero/solo2-wireless-headphones-black.png",
+            "name": "Beats Solo 2 On Ear Headphones - Black",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 2,
+            "img": "https://thebookyard.com/images/HSQTVTRAYX2_gall1.jpg",
+            "name": "H-Squared tvTray",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 3,
+            "img": "https://shop.netatmo.com/img/600/744/resize/catalog/product//n/r/nrg.png",
+            "name": "H-Squared tvTray",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 4,
+            "img": "https://5.imimg.com/data5/FW/AT/QG/SELLER-1128084/echo-dot-smart-speaker-500x500.png",
+            "name": "Echo Dot Smart Speaker",
+            "newCost": "$499",
+            "oldCost": "$599"
+        },
+        {
+            "id": 5,
+            "img": "https://m.media-amazon.com/images/I/61f9Hy-cujL._AC_SY355_.jpg",
+            "name": "Canon DSLR Camera",
+            "newCost": "$499",
+            "oldCost": "$599"
+        }
+    ]
+}
