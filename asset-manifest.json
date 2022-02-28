@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ecommerce-web-des/static/css/main.8b2cb884.css",
+    "main.js": "/ecommerce-web-des/static/js/main.7b57e4ce.js",
+    "static/js/787.dcc73137.chunk.js": "/ecommerce-web-des/static/js/787.dcc73137.chunk.js",
+    "static/media/corousel_3.png": "/ecommerce-web-des/static/media/corousel_3.dee41274cf201f4c93a4.png",
+    "static/media/iphoneEight.svg": "/ecommerce-web-des/static/media/iphoneEight.b509ca67a26853c62007b69513a36cc2.svg",
+    "static/media/apple_mac.svg": "/ecommerce-web-des/static/media/apple_mac.c67ee9a30bc87f9964805ddef617ba6c.svg",
+    "static/media/corousel_2.png": "/ecommerce-web-des/static/media/corousel_2.909a878d0f928dc16fff.png",
+    "static/media/soloBeat.png": "/ecommerce-web-des/static/media/soloBeat.d9809bdf1e8498435eee.png",
+    "static/media/beats.png": "/ecommerce-web-des/static/media/beats.c24874c738a68e5effb8.png",
+    "static/media/westernUnion.svg": "/ecommerce-web-des/static/media/westernUnion.bb53ec9ba5d88a93a2d6d5b8c0c3a085.svg",
+    "static/media/paypal.svg": "/ecommerce-web-des/static/media/paypal.9cdf9d4f6157493a515ab1fa4ea2778a.svg",
+    "static/media/visa.svg": "/ecommerce-web-des/static/media/visa.fdc0b576a0a0b409bcc4a712ac6e55e2.svg",
+    "static/media/shipping.svg": "/ecommerce-web-des/static/media/shipping.0f00a395ef405b26dff511950e8d01b8.svg",
+    "static/media/support.svg": "/ecommerce-web-des/static/media/support.4e40b54ebb87af71d5e3c56d422e945e.svg",
+    "static/media/masterCard.svg": "/ecommerce-web-des/static/media/masterCard.7ab2038f420bbc3f47f6b72c393108df.svg",
+    "static/media/refund.svg": "/ecommerce-web-des/static/media/refund.c7b2e4d535bd625f794f8e21ce5e97a4.svg",
+    "index.html": "/ecommerce-web-des/index.html",
+    "static/media/twitter.svg": "/ecommerce-web-des/static/media/twitter.bde6351853a0d435417918ab201f067f.svg",
+    "static/media/facebook.svg": "/ecommerce-web-des/static/media/facebook.7ae802d33c0946dc86e780ede44f2f5b.svg",
+    "main.8b2cb884.css.map": "/ecommerce-web-des/static/css/main.8b2cb884.css.map",
+    "main.7b57e4ce.js.map": "/ecommerce-web-des/static/js/main.7b57e4ce.js.map",
+    "787.dcc73137.chunk.js.map": "/ecommerce-web-des/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b2cb884.css",
+    "static/js/main.7b57e4ce.js"
+  ]
+}
