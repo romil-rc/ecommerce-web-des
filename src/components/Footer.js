@@ -37,7 +37,7 @@ export default function Footer() {
         </div>
         <div className='md:flex md:flex-row md:px-5 md:text-left md:justify-evenly text-center md:mt-0 mt-5'>
             {FooterData.titles.map(title => (
-                <div className='md:space-y-3 space-y-3'>
+                <div key={title.name} className='md:space-y-3 space-y-3'>
                         <>
                             <p className='md:font-semibold md:text-lg font-semibold text-lg'>{title.name}</p>
                             <ul>

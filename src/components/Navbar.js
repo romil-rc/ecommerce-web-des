@@ -1,18 +1,17 @@
 import React from 'react'
 import { useState } from 'react'
 import StoreDiv from './StoreDiv';
-import { Link } from "react-router-dom";
 
 export default function Navbar() {
 
   let Links = [
     {},
-    {name: 'HOME', links:'/'},
-    {name: 'STORE', links:'/store'},
-    {name: 'IPHONE', links:'/iphone'},
-    {name: 'IPAD', links:'/ipad'},
-    {name: 'MACBOOK', links:'/macbook'},
-    {name: 'ACCESSORIES', links:'/accessories'}
+    {name: 'HOME', links:''},
+    {name: 'STORE', links:'store'},
+    {name: 'IPHONE', links:'iphone'},
+    {name: 'IPAD', links:'ipad'},
+    {name: 'MACBOOK', links:'macbook'},
+    {name: 'ACCESSORIES', links:'accessories'}
   ]
 
   
@@ -66,7 +65,7 @@ export default function Navbar() {
               </div>
               <ul className={`text-center space-y-7 text-lg bg-white bg-opacity-90 z-[1] absolute mt-16 md:mt-0 md:static w-full md:z-auto md:text-base md:flex md:items-center md:space-x-10 md:justify-center md:bg-white font-semibold transition-all ease-linear duration-200 ${open ? 'top-0' : 'top-[-500px]'}`}>
                 {Links.map(link => (
-                    <li key={link.name} onMouseOver={show} onMouseLeave={hide} className='hover:text-[#33A0FF] ease-linear duration-200'><Link to={link.links}>{link.name}</Link></li>
+                    <li key={link.name} onMouseOver={show} onMouseLeave={hide} className='hover:text-[#33A0FF] ease-linear duration-200'><a href={link.links}>{link.name}</a></li>
                 ))}
               </ul>
             </div>

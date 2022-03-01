@@ -10,13 +10,13 @@ function App() {
   return (
     <div className='md:space-y-6'>
       <Router>
+        <Navbar />
         <Routes>
-          <Navbar />
           <Route exact path='/' element={ <Home /> } />
           <Route exact path='/store' element={ <Store /> } />
           <Route exact path='/cart' element={ <Cart /> } />
-          <Footer />
         </Routes>
+        <Footer />
       </Router>
       
     </div>
