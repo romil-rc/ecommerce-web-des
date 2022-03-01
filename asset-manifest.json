@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecommerce-web-des/static/css/main.8b2cb884.css",
-    "main.js": "/ecommerce-web-des/static/js/main.6e5b17c0.js",
+    "main.js": "/ecommerce-web-des/static/js/main.02ab00ef.js",
     "static/js/787.dcc73137.chunk.js": "/ecommerce-web-des/static/js/787.dcc73137.chunk.js",
     "static/media/corousel_3.png": "/ecommerce-web-des/static/media/corousel_3.dee41274cf201f4c93a4.png",
     "static/media/iphoneEight.svg": "/ecommerce-web-des/static/media/iphoneEight.b509ca67a26853c62007b69513a36cc2.svg",
@@ -20,11 +20,11 @@
     "static/media/twitter.svg": "/ecommerce-web-des/static/media/twitter.bde6351853a0d435417918ab201f067f.svg",
     "static/media/facebook.svg": "/ecommerce-web-des/static/media/facebook.7ae802d33c0946dc86e780ede44f2f5b.svg",
     "main.8b2cb884.css.map": "/ecommerce-web-des/static/css/main.8b2cb884.css.map",
-    "main.6e5b17c0.js.map": "/ecommerce-web-des/static/js/main.6e5b17c0.js.map",
+    "main.02ab00ef.js.map": "/ecommerce-web-des/static/js/main.02ab00ef.js.map",
     "787.dcc73137.chunk.js.map": "/ecommerce-web-des/static/js/787.dcc73137.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b2cb884.css",
-    "static/js/main.6e5b17c0.js"
+    "static/js/main.02ab00ef.js"
   ]
 }
